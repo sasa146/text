@@ -1,4 +1,5 @@
 newversion:5.30:支持对不同版本的软件进行精准控制:endnew
+version:5.30:yes:支持对不同版本的软件进行精准控制:end:5.30
 version:5.28:no:测试版本:end:5.28
 version:5.27:no:测试版本2:end:5.27
 text 123456789:5.281
