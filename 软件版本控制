@@ -1,4 +1,5 @@
-newversion:5.30:支持对不同版本的软件进行精准控制:endnew
+newversion:6.4:字体对话框进行了完善，可支持添加更多字体:endnew
+version:6.4:yes:字体对话框进行了完善，可支持添加更多字体:end:6.4
 version:5.30:yes:支持对不同版本的软件进行精准控制，完善合理报错机制:end:5.30
 version:5.28:no:测试版本:end:5.28
 version:5.27:no:测试版本2:end:5.27
