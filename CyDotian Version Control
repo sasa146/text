@@ -1,3 +1,6 @@
-newversion:1.0:公测版本，界面做了美化:endnew
+newversion:1.1:Fixed some running issues with the log window:endnew
+version:1.1:yes:①see File当日志为空的时候，不可用（修复bug）
+②打开文件失败Run按钮还原原始状态（修复bug）
+③Pairwise模式，点击Run pairwise comparison按钮，所在Dialog不会关。（用户体验优化）:end:1.1
 version:1.0:yes:公测版本:end:1.0
 version:0.9:yes:内测版本:end:0.9
