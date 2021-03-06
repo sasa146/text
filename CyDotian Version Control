@@ -3,3 +3,4 @@ version:1.1:yes:①see File当日志为空的时候，不可用（修复bug）
 ②打开文件失败Run按钮还原原始状态（修复bug）③Pairwise模式，点击Run pairwise comparison按钮，所在Dialog不会关。（用户体验优化）:end:1.1
 version:1.0:yes:公测版本:end:1.0
 version:0.9:yes:内测版本:end:0.9
+version:0.8:yes:网址测试:end:0.8
